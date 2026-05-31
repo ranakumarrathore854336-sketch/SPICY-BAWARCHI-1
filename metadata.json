@@ -1,0 +1,6 @@
+{
+  "name": "Spicy Bawarchi",
+  "description": "Ultra Premium Food Ordering Website & Restaurant Management System for Spicy Bawarchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
